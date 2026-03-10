@@ -60,12 +60,11 @@ print(cl)
 ```
 
 ## Output:
-<img width="962" height="545" alt="image" src="https://github.com/user-attachments/assets/1cb103c1-27ae-4d7a-9735-894cdab9d3dc" />
-<img width="360" height="38" alt="image" src="https://github.com/user-attachments/assets/8967f813-37e9-4bc7-a5af-6a95609b3497" />
-<img width="1044" height="179" alt="image" src="https://github.com/user-attachments/assets/ddf219af-1c73-4b81-a47a-4066756b3835" />
-<img width="952" height="57" alt="image" src="https://github.com/user-attachments/assets/87c086c4-b6d5-4e49-b2cb-2479755d17ce" />
-<img width="907" height="241" alt="image" src="https://github.com/user-attachments/assets/6f797b11-c169-4750-a2a3-f28ad6d8fe39" />
-
+<img width="963" height="547" alt="image" src="https://github.com/user-attachments/assets/7ff706fb-1978-470b-b05d-199e30d3f9da" />
+<img width="137" height="34" alt="image" src="https://github.com/user-attachments/assets/b725e775-17e6-4159-8780-059bca585766" />
+<img width="94" height="40" alt="image" src="https://github.com/user-attachments/assets/16a2442d-54bd-42b9-abca-904050567fb5" />
+<img width="95" height="30" alt="image" src="https://github.com/user-attachments/assets/98ba4455-fcd7-4d03-900e-350bc90c0eb3" />
+<img width="1043" height="164" alt="image" src="https://github.com/user-attachments/assets/d13bb4ef-fa1e-473f-9d16-642568000396" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
