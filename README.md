@@ -65,6 +65,10 @@ print(cl)
 <img width="94" height="40" alt="image" src="https://github.com/user-attachments/assets/16a2442d-54bd-42b9-abca-904050567fb5" />
 <img width="95" height="30" alt="image" src="https://github.com/user-attachments/assets/98ba4455-fcd7-4d03-900e-350bc90c0eb3" />
 <img width="1043" height="164" alt="image" src="https://github.com/user-attachments/assets/d13bb4ef-fa1e-473f-9d16-642568000396" />
+<img width="113" height="31" alt="image" src="https://github.com/user-attachments/assets/48805574-c692-49a9-90a5-7e8c41849438" />
+<img width="830" height="45" alt="image" src="https://github.com/user-attachments/assets/6f7b69f5-6312-43ea-8a03-1e10b096ac6f" />
+<img width="156" height="75" alt="image" src="https://github.com/user-attachments/assets/35f8d21a-8bb3-4238-9156-0f6f44202dc2" />
+<img width="713" height="227" alt="image" src="https://github.com/user-attachments/assets/9523852f-ba33-4d4d-a8bb-76594e8a6e56" />
 
 ## Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
